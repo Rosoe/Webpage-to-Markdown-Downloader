@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Webpage to Markdown Downloader
-// @namespace    https://github.com/Rosoe/Webpage-to-Markdown-Downloader/blob/main/webpage-to-markdown.user.js
+// @namespace    https://github.com/Rosoe/Webpage-to-Markdown-Downloader/
 // @version      1.1
 // @description  Downloads the current webpage as a markdown file
 // @author       Ro'sø
