@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Webpage to Markdown Downloader
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    https://github.com/Rosoe/Webpage-to-Markdown-Downloader/blob/main/webpage-to-markdown.user.js
+// @version      1.1
 // @description  Downloads the current webpage as a markdown file
 // @author       Ro'sø
 // @match        *://*/*
