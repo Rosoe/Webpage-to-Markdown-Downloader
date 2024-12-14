@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Downloads the current webpage as a markdown file
-// @author       Cline
+// @author       Ro'sø
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
