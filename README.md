@@ -1,6 +1,6 @@
 # 📥 Webpage to Markdown Downloader
 
-Hey there! This is a super handy browser extension that lets you grab any webpage and save it as a clean markdown file. Perfect for when you want to save articles for offline reading, create documentation, or just keep a tidy collection of web content.
+Hey there! This is a super handy userscript (a kind of browser extension) that lets you grab any webpage and save it as a clean markdown file. Perfect for when you want to save articles for offline reading, create documentation, or just keep a tidy collection of web content.
 
 ## ✨ Features
 
